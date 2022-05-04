@@ -154,3 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameController: {fileID: 1320774352511415113, guid: 86653afc94b726a4497f53c1335adfb8, type: 3}
+  shipSpeed: 3
+  borderReachedEvent:
+    m_PersistentCalls:
+      m_Calls: []
